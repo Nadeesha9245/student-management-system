@@ -1,0 +1,7 @@
+db.php
+.env
+*.sql
+uploads/
+.vscode/
+Thumbs.db
+.DS_Store
